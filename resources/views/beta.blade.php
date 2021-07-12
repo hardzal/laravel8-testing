@@ -7,6 +7,7 @@
     <title>Beta</title>
 </head>
 <body>
-    <h1>This is beta page</h1>
+    <h1>This is Beta page</h1>
+    <a href="/alpha">Previous</a>
 </body>
 </html>
